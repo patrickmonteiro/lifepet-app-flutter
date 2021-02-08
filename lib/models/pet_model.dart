@@ -40,5 +40,15 @@ var pets = [
       cor: "Amarelo",
       bio: "Um pitbull grandão",
       id: "2"
-  )
+  ),
+  Pet(
+      nome: 'Aries',
+      imageUrl: 'assets/images/toto.jpeg',
+      descricao: "Um cachorro animado",
+      idade: 2,
+      sexo: "Macho",
+      cor: "Preto",
+      bio: "Um totó bem esperto",
+      id: "3"
+  ),
 ];
